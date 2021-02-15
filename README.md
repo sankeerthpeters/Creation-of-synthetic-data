@@ -7,7 +7,7 @@ Blender 2.8 or later (https://www.blender.org/download/)
 
 ## Thoughts on the implementation
 
-Blender is an open source software which helps to design and code easily.
+Blender is an open source software which helps to design & code easily.
 
 A brief algorithm breakdown;
 - Importing required libraries
